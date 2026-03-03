@@ -1,0 +1,23 @@
+
+# WPILib Java build artifacts
+build/
+.gradle/
+bin/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.classpath
+*.project
+*.settings/
+
+# macOS
+.DS_Store
+
+# WPILib generated files
+*.json
+!simgui-ds.json
+!simgui.json
